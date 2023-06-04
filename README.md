@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39cea4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Arthur;I'm+20+years+old;I'm+from+Brazil;I'm+studing+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurYamori&bg_color=0d1117&color=1374f4&line=39cea4&point=39cea4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/0b/6a/3a/0b6a3a24b13dc400863f2ff129086be0.gif"  />
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurYamori&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
